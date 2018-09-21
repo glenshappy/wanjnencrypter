@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "MyEncrypt\\" : "src/encrypt"
+      "MyEncrypt\\" : "src"
     }
   }
 }
