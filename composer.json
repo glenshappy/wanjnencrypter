@@ -13,9 +13,5 @@
     "psr-4": {
       "MyEncrypt\\" : "src/encrypt"
     }
-  },
-  "require": {
-    "php": ">=5.1.0",
-    "paragonie/random_compat": "<9.99"
   }
 }
