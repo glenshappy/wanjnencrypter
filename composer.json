@@ -1,0 +1,21 @@
+{
+  "name": "laravel/wanjnencrypter",
+  "description": "This a demo for build composer packagist .",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "万思源",
+      "email": "1835**8*@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MyEncrypt\\" : "src/encrypt"
+    }
+  },
+  "require": {
+    "php": ">=5.1.0",
+    "paragonie/random_compat": "<9.99"
+  }
+}
