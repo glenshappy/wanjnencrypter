@@ -1,6 +1,6 @@
 {
-  "name": "wansiyuancrypter",
-  "description": "This a laravel cache encrypt.",
+  "name": "wansiyuan/wansiyuancrypter",
+  "description": "This a laravel cache encrypt.11",
   "type": "library",
   "license": "MIT",
   "authors": [
