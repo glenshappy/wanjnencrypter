@@ -1,6 +1,6 @@
 {
-  "name": "laravel/wanjnencrypter",
-  "description": "This a demo for build composer packagist .",
+  "name": "wansiyuan/wansiyuancrypter",
+  "description": "This a laravel cache encrypt.",
   "type": "library",
   "license": "MIT",
   "authors": [
